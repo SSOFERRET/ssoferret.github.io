@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cleanup/static/css/main.f98a0cbf.css",
+    "main.js": "/cleanup/static/js/main.2929e160.js",
+    "static/media/neodgm.ttf": "/cleanup/static/media/neodgm.ba23a68ae06680bee072.ttf",
+    "static/media/neodgm.woff": "/cleanup/static/media/neodgm.91dee0fbd75d0e3ba0b4.woff",
+    "static/media/neodgm.woff2": "/cleanup/static/media/neodgm.1b3f4331a4c8c09634b3.woff2",
+    "static/media/Trash.gif": "/cleanup/static/media/Trash.af4014c8747d0b0e2880.gif",
+    "static/media/slick.svg": "/cleanup/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/cleanup/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/cleanup/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/cleanup/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/cleanup/index.html",
+    "main.f98a0cbf.css.map": "/cleanup/static/css/main.f98a0cbf.css.map",
+    "main.2929e160.js.map": "/cleanup/static/js/main.2929e160.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f98a0cbf.css",
+    "static/js/main.2929e160.js"
+  ]
+}
